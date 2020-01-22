@@ -1,2 +1,2 @@
 # PHY425
-Computational Physics II Course Lab work
+Computational Physics II Lab course work
